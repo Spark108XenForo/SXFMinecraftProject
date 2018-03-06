@@ -2,6 +2,12 @@
 
 ![Cover](/image/cover.png)
 
+Current release of the sale: [SXF] Minecraft Project 1.0.0 Beta 1
+Current development release: [SXF] Minecraft Project 1.0.1 Alpha 4
+
+Текущий релиз продажи: [SXF] Minecraft Project 1.0.0 Beta 1
+Текущий релиз разработки: [SXF] Minecraft Project 1.0.1 Alpha 4
+
 ## English (Google) translated description
 This documentation will allow you to see the main features of this plugin for XenForo 2.0, as well as understand the basic principles of work.
 
